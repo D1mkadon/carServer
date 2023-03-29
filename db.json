@@ -1,96 +1,95 @@
 {
-    "cars": [
-      {
-        "id": 1,
-        "name": "McLaren GT",
-        "image": "https://www.topgear.com/sites/default/files/2021/12/2_GT%20Front34%20Dusk%20Smoke_Defy%20the%20Limits_9.JPG",
-        "price": 208490
-      },
-      {
-        "id": 2,
-        "name": "Audi R8",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6324de1bcfdcb162b6065097/3500-2022-Audi-R8-Spyder-V10-4/960x0.jpg?format=jpg&width=960",
-        "price": 160660
-      },
-      {
-        "id": 3,
-        "name": "Lamborghini Huracan",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/3/31/2014-03-04_Geneva_Motor_Show_1377.JPG",
-        "price": 209270
-      },
-      {
-        "id": 4,
-        "name": "Audi A6",
-        "image": "https://imgr1.auto-motor-und-sport.de/Audi-A6-Avant-50-TDI-Quattro-Sport-Realverbrauch-169FullWidth-e6a6b3e4-1722060.jpg",
-        "price": 56280
-      },
-      {
-        "id": 5,
-        "name": "BMW M5",
-        "image": "https://hips.hearstapps.com/hmg-prod/images/2021-bmw-m5-competition-1146-1625696565.jpg?crop=0.550xw:0.412xh;0.150xw,0.527xh&resize=1200:*",
-        "price": 107900
-      },
-      {
-        "id": 6,
-        "name": "Mazda RX7",
-        "image": "https://cdn1.mecum.com/auctions/fl0122/fl0122-500349/images/1-1638976179968@2x.jpg?1641582404000",
-        "price": 59290
-      },
-      {
-        "id": 7,
-        "name": "Mercedes-Benz Maybach",
-        "image": "https://hips.hearstapps.com/hmg-prod/images/2022-mercedes-maybach-s580-3374-1667931924.jpg",
-        "price": 194550
-      },
-      {
-        "id": 8,
-        "name": "Bugatti Veyron",
-        "image": "https://cdn.prod.www.manager-magazin.de/images/825bdb76-0001-0004-0000-000000139797_w1200_r1.77_fpx53.95_fpy54.99.jpg",
-        "price": 1900000
-      },
-      {
-        "id": 9,
-        "name": "Bentley Continental",
-        "image": "https://springerfachmedien.azureedge.net/sfm-trucker/thumb_750x422/media/5172/bentley-1.jpg",
-        "price": 242710
-      },
-      {
-        "id": 10,
-        "name": "Skyline R34",
-        "image": "http://speedhunters-wp-production.s3.amazonaws.com/wp-content/uploads/2021/07/20205450/Speedhunters_R34roller-3.jpg",
-        "price": 28030
-      },
-      {
-        "id": 11,
-        "name": "Toyota Corolla 2023",
-        "image": "https://cdn.motor1.com/images/mgl/XBBJXk/s3/toyota-corolla-2023.jpg",
-        "price": 36660
-      },
-      {
-        "id": 12,
-        "name": "Lexus nx 2022",
-        "image": "https://media.ed.edmunds-media.com/lexus/nx-250/2022/oem/2022_lexus_nx-250_4dr-suv_luxury_fq_oem_1_1600.jpg",
-        "price": 54780
-      },
-      {
-        "id": 13,
-        "name": "BRZ Subaru",
-        "image": "https://hips.hearstapps.com/hmg-prod/images/2023-subaru-brz-limited-6mt-lt-intro-381-1669913828.jpg?crop=0.647xw:0.484xh;0.0625xw,0.453xh&resize=1200:*",
-        "price": 28595
-      },
-      {
-        "id": 14,
-        "name": "Volvo c40",
-        "image": "https://media.autoexpress.co.uk/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1664271595/autoexpress/2022/09/Volvo%20C40%20Recharge%20-14.jpg",
-        "price": 51220
-      },
-      {
-        "id": 15,
-        "name": "BMW ix",
-        "image": "https://ecomento.de/wp-content/uploads/2022/01/BMW-iX-M60-2021-2-1200x689.jpg",
-        "price": 85095
-      }
-    ],
-    "user": [{ "id": 1, "name": "Dmytro" }]
-  }
-  
+  "cars": [
+    {
+      "id": 1,
+      "name": "McLaren GT",
+      "image": "https://www.topgear.com/sites/default/files/2021/12/2_GT%20Front34%20Dusk%20Smoke_Defy%20the%20Limits_9.JPG",
+      "price": 208490
+    },
+    {
+      "id": 2,
+      "name": "Audi R8",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6324de1bcfdcb162b6065097/3500-2022-Audi-R8-Spyder-V10-4/960x0.jpg?format=jpg&width=960",
+      "price": 160660
+    },
+    {
+      "id": 3,
+      "name": "Lamborghini Huracan",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/31/2014-03-04_Geneva_Motor_Show_1377.JPG",
+      "price": 209270
+    },
+    {
+      "id": 4,
+      "name": "Audi A6",
+      "image": "https://imgr1.auto-motor-und-sport.de/Audi-A6-Avant-50-TDI-Quattro-Sport-Realverbrauch-169FullWidth-e6a6b3e4-1722060.jpg",
+      "price": 56280
+    },
+    {
+      "id": 5,
+      "name": "BMW M5",
+      "image": "https://assets.adac.de/image/upload/ar_16:9,c_fill,f_auto,g_auto,q_auto:eco,w_1256/v1/Autodatenbank/Fahrzeugbilder/im05112-1-bmw-m5.jpeg",
+      "price": 107900
+    },
+    {
+      "id": 6,
+      "name": "Mazda RX7",
+      "image": "https://cdn1.mecum.com/auctions/fl0122/fl0122-500349/images/1-1638976179968@2x.jpg?1641582404000",
+      "price": 59290
+    },
+    {
+      "id": 7,
+      "name": "Mercedes-Benz Maybach",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/2022-mercedes-maybach-s580-3374-1667931924.jpg",
+      "price": 194550
+    },
+    {
+      "id": 8,
+      "name": "Bugatti Veyron",
+      "image": "https://cdn.prod.www.manager-magazin.de/images/825bdb76-0001-0004-0000-000000139797_w1200_r1.77_fpx53.95_fpy54.99.jpg",
+      "price": 1900000
+    },
+    {
+      "id": 9,
+      "name": "Bentley Continental",
+      "image": "https://springerfachmedien.azureedge.net/sfm-trucker/thumb_750x422/media/5172/bentley-1.jpg",
+      "price": 242710
+    },
+    {
+      "id": 10,
+      "name": "Skyline R34",
+      "image": "http://speedhunters-wp-production.s3.amazonaws.com/wp-content/uploads/2021/07/20205450/Speedhunters_R34roller-3.jpg",
+      "price": 28030
+    },
+    {
+      "id": 11,
+      "name": "Toyota Corolla 2023",
+      "image": "https://cdn.motor1.com/images/mgl/XBBJXk/s3/toyota-corolla-2023.jpg",
+      "price": 36660
+    },
+    {
+      "id": 12,
+      "name": "Lexus nx 2022",
+      "image": "https://media.ed.edmunds-media.com/lexus/nx-250/2022/oem/2022_lexus_nx-250_4dr-suv_luxury_fq_oem_1_1600.jpg",
+      "price": 54780
+    },
+    {
+      "id": 13,
+      "name": "BRZ Subaru",
+      "image": "https://www.tuningblog.eu/wp-content/uploads/2022/01/2022-Subaru-BRZ-Kuhl-Racing-Widebody-Kit-2.jpg",
+      "price": 28595
+    },
+    {
+      "id": 14,
+      "name": "Volvo c40",
+      "image": "https://media.autoexpress.co.uk/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1664271595/autoexpress/2022/09/Volvo%20C40%20Recharge%20-14.jpg",
+      "price": 51220
+    },
+    {
+      "id": 15,
+      "name": "BMW ix",
+      "image": "https://ecomento.de/wp-content/uploads/2022/01/BMW-iX-M60-2021-2-1200x689.jpg",
+      "price": 85095
+    }
+  ],
+  "user": [{ "id": 1, "name": "Dmytro" }]
+}
